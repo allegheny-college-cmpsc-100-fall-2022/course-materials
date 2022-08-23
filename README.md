@@ -85,7 +85,7 @@ Before each week begins, I will assign a group of short, topic-focused videos to
 
 By the end of this course, you will be able to:
 
-* Develop and realize moderately complex ideas and their effects in a digital medium
+* Develop and realize moderately complex ideas and their effects beyond merely the digitial world
 * Understand the basic language-independent principles of "object-oriented programming" (OOP)
 * Express basic fluency in the Python programming language
 * Exercise an intermediate grasp of industry-standard tools used to build software (e.g GitHub, IDEs)
