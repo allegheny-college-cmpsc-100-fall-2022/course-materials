@@ -6,10 +6,10 @@ This resource contains the rules that we need to agree to in order to make that 
 
 ## Important resources
 
-[`term-world`](https://world.theterm.world)
-[Office hours schedule](https://chompe.rs/office-hours)
-[Course Calendar](https://chompe.rs/fall-2022-100-schedule)
-[Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
+* [`term-world`](https://world.theterm.world)
+* [Office hours schedule](https://chompe.rs/office-hours)
+* [Course Calendar](https://chompe.rs/fall-2022-100-schedule)
+* [Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
 
 ## Syllabus
 
