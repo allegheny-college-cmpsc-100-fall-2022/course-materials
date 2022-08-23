@@ -4,6 +4,13 @@ Greetings from `term-world`! Right now, it's a bit...em...barren. But! I promise
 
 This resource contains the rules that we need to agree to in order to make that happen, so have a read. (It's actually really important.)
 
+## Important resources
+
+[`term-world`](https://world.theterm.world)
+[Office hours schedule](https://chompe.rs/office-hours)
+[Course Calendar](https://chompe.rs/fall-2022-100-schedule)
+[Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
+
 ## Syllabus
 
 > "The best way to predict the future is to invent it."
@@ -40,11 +47,18 @@ Many folks often find that time dedicated to completing this work during the wee
 |Wednesday                 |13:30 - 15:00       |
 |Thursday                  |11:00 - 13:00       |
 |Friday                    |12:00 - 14:00       |
-|`term-world` Live! (streamed on Discord)       |
+|`term-world` Alive! (streamed on Discord)      |
 |Sunday                    |15:00 - 17:00       |
 
-To book time during any of the above spots, please visit my [office hours appointment calendar](https://chompe.rs/office-hours). For our `term-world` Live! sessions, come around our Discord at the specified time
-for a two-hour stream of the Mayor catching up on the various building tasks that you're also up to.
+#### Regular office hours
+
+To book time during any of the above spots, please visit my [office hours appointment calendar](https://chompe.rs/office-hours). 
+
+#### `term-world` Alive!
+
+For our `term-world` Alive! sessions, head to our Discord at `15:00` for a two-hour stream of the Mayor completing some of the work that you've been assigned and answering questions from those assembled. Think of this as a walkthrough for the most basic aspects of a given assignment.
+
+Your attendance at these sessions is _not_ mandatory.
 
 ### Canonical course description
 
@@ -65,7 +79,7 @@ By the end of the course, our hope is that this awareness and (hopefully) the de
 
 #### Textbook(s)
 
-There are no textbooks for this course. Any texts or articles used will be available online or distributed by the instructor.
+There are no textbooks for this course. Any texts or articles used will be available online or distributed by the Mayor. (O, how nice the Mayor is.)
 
 #### Platforms
 
@@ -73,13 +87,11 @@ This course relies on the [GitHub](https://www.github.com), Discord, YouTube, an
 
 ##### A note on use of class platforms
 
-These platforms are for our use only. To use them, you'll need to register and be logged into accounts associated with your Allegheny College email. Moreover, by remaining enrolled in this class, you agree _not_ to share these resources with anyone _outside of_ our course.
-
-This provision, while seemingly minor, is extremely important in making sure that our course community stays a healthy one.
+These platforms are for our use only. To use them, you'll need to register and be logged into accounts associated with your Allegheny College email.
 
 #### Media
 
-Before each week begins, I will assign a group of short, topic-focused videos to review. These videos may contain activities that you can do in parallel with or after watching material. Video content is meant to support, but not substitute for, topics discussed and exercised that week. I will provide links to participate in or to access activities or supplmentary material in a Slack post along with video links.
+Before each week begins, I will assign a group of short, topic-focused videos to review. These videos will normally contain activities that you complete in parallel with or after watching material. Video content is meant to support, but not substitute for, topics discussed and exercised that week. I will provide links to participate in or to access activities or supplmentary material via both our [course calendar](https://chompe.rs/fall-2022-100-schedule) and Discord.
 
 ### Learning objectives
 
@@ -100,7 +112,11 @@ This, however, does not abrogate the role of this syllabus document. Provisions 
 
 #### Assignments
 
-All course assignments are assigned and evaluated using the GitHub platform. I will only assess work correctly deposited there. While we use our course Jupyter for _doing_ the work, the final versions _must_ be on GitHub. Though the previous set of statements implies the following, I state it explicitly here to avoid misunderstanding: I _will not_ grade work left on the `term-world` server. In fact, _I can't_.
+All course assignments are assigned and evaluated using the GitHub platform. I will only assess work correctly deposited there. While we use the `term-world` environment for _doing_ the work, the final versions _must_ be on GitHub. Though the previous set of statements implies the following, I state it explicitly here to avoid misunderstanding: 
+
+> I _will not_ grade work left on the `term-world` server. 
+
+In fact, _I can't_.
 
 ##### Reflections
 
@@ -110,7 +126,7 @@ When reflections are assigned, they will be accompanied with a prompt. All refle
 
 ##### Course project
 
-This project offers students the opportunity to develop a realized version of an reasonably complex student-created project. Completion of this project will require use of the knowledge accumulated throughout the semester. Details for this project will be given out at the approximate mid-point of the semester. This task will require planning, careful evaluation, and implementation of a wide variety of concepts, and will allow students to choose and implement a project of their chosen discipline/application and approaches/methods. This project will be subject to approval by the instructor through a process including a formal proposal, interim updates, and technical reports.
+This project offers students the opportunity to develop a realized version of an reasonably complex student-created project. Completion of this project will require use of the knowledge accumulated throughout the semester. Details for this project will be given out at the approximate mid-point of the semester. This task will require planning, careful evaluation, and implementation of a wide variety of concepts, and will allow students to choose and implement a project of their chosen discipline/application and approaches/methods. This project will be subject to approval by the Mayor through a process including a formal proposal, interim updates, and technical reports.
 
 ### Course preparation
 
@@ -142,9 +158,9 @@ The discipline of computer science, like many others, encourages its members to 
 
 #### Assistance with course concepts
 
-Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor and teaching assistants. To meet with me, consult my available office hours (above) and make an appointment.
+Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the Mayor and teaching assistants. To meet with me, consult my available office hours (above) and make an appointment.
 
-Historically, students who are successful in my courses visit and discuss course concepts with the instructor and Technical Leaders early and often. See [above for my office hours](#office-hours) or go to [this schedule for Technical Leaders' office hours](https://www.cs.allegheny.edu/teaching/technicalleaders/).
+Historically, students who are successful in my courses visit and discuss course concepts with the Mayor and Technical Leaders early and often. See [above for my office hours](#office-hours) or go to [this schedule for Technical Leaders' office hours](https://www.cs.allegheny.edu/teaching/technicalleaders/).
 
 #### Assistance outside of the course
 
@@ -152,7 +168,7 @@ If you find yourself in difficult circumstances which affect your ability to par
 
 Do not wait until the end of the semester. 
 
-Part of my role as a course instructor is to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything I can do with respect to your ability to handle your work. This is especially true of our current circumstances. Again, let me remind you -- __**it is part of my job**__ to help you access Allegheny College resources that will enable your safety and success.
+Part of my job as the Mayor of `term-world` is to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything I can do with respect to your ability to handle your work. This is especially true of our current circumstances. Again, let me remind you -- __**it is part of my job**__ to help you access Allegheny College resources that will enable your safety and success.
 
 In many situations, the following list of resources may help:
 
