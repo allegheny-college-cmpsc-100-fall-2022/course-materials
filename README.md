@@ -26,7 +26,7 @@ This resource contains the rules that we need to agree to in order to make that 
 |Monday, Wednesday, Friday |10:00 - 10:50 |Work time  |Alden 101                        |
 |Friday                    |14:30 - 16:30 |Work time  |Alden 101                        |
 
-A lot of our time will be dedicated to...building! In fact, nearly all of it appears to be allocated that way. That this is true _doesn't_ mean that these sessions are things to skip. Each of these meetings will feature significant support either via community Technical Leaders, the Mayor themself, or your fellow neighborhood members. 
+A lot of our time will be dedicated to building! In fact, nearly all of it appears to be allocated that way. That this is true _doesn't_ mean that these sessions are things to skip. Each of these meetings will feature significant support either via community Technical Leaders, the Mayor themself, or your fellow neighborhood members. 
 
 Many folks often find that time dedicated to completing this work during the week offers the right mix of help and fellowship that make the labor palatable. (Plus, the Mayor doesn't like to be lonely.)
 
@@ -79,7 +79,7 @@ By the end of the course, our hope is that this awareness and (hopefully) the de
 
 #### Textbook(s)
 
-There are no textbooks for this course. Any texts or articles used will be available online or distributed by the Mayor. (O, how nice the Mayor is.)
+There are no textbooks for this course. Any texts or articles used will be available online or distributed by the Mayor. (Oh, how nice the Mayor is.)
 
 #### Platforms
 
@@ -122,7 +122,7 @@ In fact, _I can't_.
 
 You will be asked at various points to reflect on ways you can connect your work to general course concepts or to understanding your progress in the course as a whole.
 
-When reflections are assigned, they will be accompanied with a prompt. All reflections should be added to the dedicated reflections repository that we will `clone` in the opening sessions of the course.
+When reflections are assigned, they will be accompanied with a prompt. All reflections will be distributed in the materials that we `clone` during a given week of the course.
 
 ##### Course project
 

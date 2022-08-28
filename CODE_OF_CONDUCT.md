@@ -2,51 +2,112 @@
 
 ## A word from the Mayor
 
-> In most learning situations in life outside of school, grades are never given. The learning that occurs in cooking, dance, or yoga studios do not use any grading. Why? In these “studio” cases, it seems meaningless to give students grades, and yet without any grades, those students get better at yoga, dance, and cooking.
->
-> Asao Inoue, "160W's Grading Contract"
+We're building a world. That task shouldn't be taken on as a solitary or light burden. In many ways, the product of such an endeavor always means to be imperfect; we learn more as we _do_, and that process is rarely (i.e. never) linear or "clean." We benefit from being able to be a bit messy. You may intuit from this statement that we mean to engage with _process_ much more than _product_, though the latter is necessary. Following the various processes of `term-world` closely should yield a successful product; however, production of output is only the _basic_ expectation of the work we'll complete together.
 
-(Computer science has more in common with things like cooking or dance than you might think.)
-
-Nearly everything you've done during your time at various learning institutions has resolved to single point: the final grade. Whether this was a quarterly, annual, or semi-annual grade (i.e. semester grade), your education has formatted you towards achieving the best letter grade outcome possible. That's not (mostly) how this course goes, however.
-
-I recognize there as many reasons for taking this particular course as there are students enrolled in it. There exist an equal number of hesitancies and anxieties about this course as well. Some of you look forward to doing things simply because they are hard. Others of you may have enrolled in this class because it seems advantageous to develop skills tangent to computer science. Others may be interested in majoring in the discipline at Allegheny. 
-
-One thing is likely common to all of you: you're at least somewhat afraid that this course will be difficult and that this difficulty will manifest itself in a poor grade.
-
-This introduction is meant to allay that fear. I write above that this course will "mostly" not be contingent on grades. In fact, I want you to exile the idea of grading from your brain completely. The idea of failure often precludes us from taking risks for fear that we'll look or feel inferior or, at worst, be incapable of understanding a concept. Unfortunately, the inevitability of letter grades often amplifies that fear, as it's a very real consequence.
-
-But this course is less about "making the grade" than it is giving you mental and computational skills and tools to conquer problems. In this way, I hope that you'll take less about the physical machinery of computers from this class and more of the -- dare I say "spiritual" -- exercise of approaching problem solving with new computational powers and applying ways of thinking to at least formulate ways to solve abstract quandries.
-
-In fact, I care more about your excitement and confidence with the material than I do about grades. Grades are the _worst_.
-
-This module -- at least up to the point where the college requires that I assign you an individual letter grade -- is _ungraded_, meaning you will never see an actual letter grade from me on an assignment. Instead, I will provide formative feedback. Does that mean you can't get anything _wrong_? No, of course not. You'll still have plenty of opportunity and encouragement to fail. All this means is that `failure != "F"`. (If you can read that last "equation," you've figured out some computational already.) The only thing that leads to failure here is inauthentic effort.
-
-At the end of the module, I have to give you a grade. But, following this contract should take care of that.
-
-In this course, we will rely on a contract to determine what kinds of behaviors lead to learning vis-a-vis a computer science environment. We will spend the opening class sessions of this course working together to identify and codify those things that we will hold ourselves and others accountable to. In fact, this class relies on more than just a sense of community to function: it relies on actual community rules and efforts. I include myself as part of this course community, so this contract also indemnifies _me and the course Technical Leaders (TLs)_ to uphold the behaviors and expectations written into it.
-
-So what does all this mean? Perhaps it's important to identify what it _doesn't mean_: this course is not one where you will be able to just "get by." In fact, ungraded contract courses, historically, require _more_ work than graded ones. However, you are rewarded for completing work to a satisfactory degree, a statement which we will use this contract to clarify.
-
-Here, you are rewarded for the quality of your honest work. Not everyone in computer science "got it" right away and I'm sure that your Technical Leaders (TLs) and even department faculty (including me) would tell you that. However, if you participate in this discipline, you'll learn that you're really developing a _practice_ -- a work that presages attempt, failure, _and_ success all at once -- in learning how to compute meaningfully. 
-
-For all of you, the terrain of this journey will be tough in different ways. It's my sincere hope that spelling out the boundaries of the map will make it at least traversable.
+That's why this community is evaluated on a _contract basis_, the terms of which are spelled out here. This document specifies your responsibilities and how that work will be rewarded. We're able to substantially alter the terms of this deal (see [the "Rules Rule"](#the-rules-rule) below),
 
 ## Contract stipulations
 
-### The "Basic Grade"
+### The Basic Grade
 
-* All students who meet the covenants of this contract will earn an individual letter grade of `C` in this course
+(To qualify for this tier, all basic assignment objectives must be completely met.)
 
+* All citizens who meet the covenants of this contract will earn an individual letter grade of `C` in this course
 
+You may ask: why the basic grade is a `C` and not a `B` or `B-`? Rising to the level of above-average or exceptional work relies on the just that -- above-average or exceptional work. Merely completing the assignments maintains a kind of _status quo_. As our interest centers on making a _better_ world, this contract should provide incentive to think beyond mere sufficiency. As you'll see below, work that aspires to higher levels of reward involves doing the work of planning and (better yet) _making_ improvements.
 
+### The `A` tier
+
+(To qualify for this tier, all basic assignment objectives must be completely met.)
+
+Citizens who take the opportunity to both provide _and_ implement substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
+
+* propose an assignment-related world improvment in each week's `proposal.md` file which:
+  * completes all document prompts
+  * must be done by start of a lab session (Friday) of a given week
+  * must be approved _in writing_ by the Mayor by the end of the lab session
+  * must either incorporate or provide rationale for _not_ incorporating suggested revisions
+    * this work is due by the assignment deadline (Sunday of each week)
+* implement the improvement proposed by the assignment deadline
+
+These proposals may be revisions to existing content or creation of wholly new content. In many cases, executing planned improvements will require some consultation with either community Technical Leaders _or_ the Mayor. Citizens wishing to achieve this tier should expect to avail themselves of the resources available, including office hours and other forms of correspondence.
+
+Proposals and improvements must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+
+#### `A-` grades
+
+Citizens who do not meet the above requirements for two (2) weeks will be awarded a mark of `A-` if all other weeks contain a proposal and subsequent improvement(s).
+
+### The `B` tier
+
+(To qualify for this tier, all basic assignment objectives must be completely met.)
+
+Citizens who take the opportunity to both provide substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
+
+* propose an improvement in each week's `proposal.md` file which:
+  * completes all document prompts
+  * must be finished by the start of a lab session (Friday) of a given week
+  * must be recognized _in writing_ by the Mayor by the end of the lab session
+  * must either incorporate or provide rationale for _not_ incorporating suggested revisions
+    * this work is due by the assignment deadline (Sunday of each week)
+
+These proposals may be revisions to existing content or creation of wholly new content. Proposals must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+
+#### `B+` grades
+
+Citizens who both _propose and implement_ at least two (2) ideas will be awarded a mark of `B+` if all other weeks contain a proposal.
+
+#### `B-` grades
+
+Citizens who miss (2) proposals will be awarded a mark of `B-` if all other weeks contain them.
+
+### Grades lower than the Basic Grade
+
+There are three (3) instances that penalize evaluation:
+
+1. Incomplete assignments (i.e. incomplete)
+2. Ignored assignments (i.e. not completed at all)
+3. Plagiarism or other inappropriate/dishonest academic behavior
+
+Each of these circumstances affects grades differently.
+
+#### Incomplete assignments
+
+For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade (e.g. _two_ incomplete assignments would result in a mark of `C-`, et al.).
+
+#### Ignored assignments
+
+If a citizen misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ assignment missed would result in a `C-`, et al.).
+
+#### Academic dishonesty
+
+Citizens engaging in academically dishonest behavior will be assessed on a case-by-case basis, as circumstances and factors of a case vary widely. However, in situations where academic dishonesty is established, the variety of penalties might include (but are not limited to):
+
+* disqualification from the `A` and/or `B` "tiers"
+* an automatic assessment of an "Ignored" assignment
+
+In severe cases, academic dishonesty may result in the mark of an `F` for the course, though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
+
+### Assignment "bugs" and impact on grading
+
+* In the event that there are "bugs" with grader criteria, Mayor will assess completion status with known issues in mind
+  * The Mayor will make every effort to remedy the failing check before the assignment due date
+  * However, if during assignment evaluation, a check fails for every citizen due to a technical issue, the check is considered an invalid grading criteria   
+  
 ### The "Rules Rule"
 
-* Convenants in this contract may be changed following an open course discussion about the proposed change(s)
-* Any changes will then be put to a vote. If a vote succeeds with a majority (50% + 1) outcome supporting the measure(s) proposed, the change will be made 
+* Convenants in this contract may be changed following:
+  * a successful "Pull Request" made on this document _and_
+  * an open course discussion about the proposed change(s)
+* Any changes will then be put to a vote
+  * If a vote succeeds with a majority (50% + 1) outcome supporting the measure(s) proposed, the change will be made 
 
-  * This applies to all portions of the contract _except_ for the "Basic Grade" and this rule ("Rules Rule")
-  * In addition, the professor reserves the right to veto a proposed change if it demonstrably undermines the academic integrity of the course or is superceded by policies within the college's academic standards or handbook
+* The above applies to all portions of the contract _except_ for the "Basic Grade" and this rule ("Rules Rule")
+* The Mayor reserves the following rights:
+  * the right to veto a proposed change if:
+    * the change the academic or community integrity of the course, _or_ 
+    * a rule is superceded by policies governed by the College's academic standards or handbook
+  * the right make unilateral changes that that uphold academic and community integrity
 
 ### Participation
 
@@ -69,10 +130,9 @@ As several of you note in your suggestions for this contract, it is good practic
 
 #### Course platforms
 
-On course platforms used for the duration of the Module:
+On course platforms used for the duration of the semester:
 
-* Either install or remain logged in to all of the platforms needed for this class
-* Use all the platforms for appropiate class reasons 
+* Use all platforms for appropiate class reasons 
 * Follow the instructions while using the platforms
 * Keeping "up-to-date" with platforms may require seeking additional extra-curricular knowledge
   * For example, using Markdown in Discord
@@ -90,7 +150,7 @@ When using office hours:
 * Come in prepared with questions, a topic, or a clear objective
   * To achieve this, please add notes about expected topic(s) to a Google Calendar slot reservation (for instructor calendar)
 * Be prepared to recieve feedback, understanding that typically this means completing revisions on what ever you are working on
-* Respect the time of other students (i.e. be mannerly and quick)
+* Respect the time of other citizens (i.e. be mannerly and quick)
 * Have all assignments ready to discuss with the Professor
 * Not rely only on office hours (i.e. work should be attempted first)
  
@@ -100,66 +160,16 @@ Especially in precarious times like those in which we find ourselves, I _cannot_
 
 As many of your note, this isn't something that I provide grading criteria for. I don't really have an interest in directly grading attendance. However, _not attending_ traditionally shows up in final products and, thereby, grades. It's important to remember that attendance and participation are closely related. Not doing either severely restricts your ability to succeed in the course.
 
-It is, however, also possible that a student many not feel well enough to attend even a portion of a remote course. In these situations, students must:
+It is, however, also possible that a citizen many not feel well enough to attend even a portion of a remote course. In these situations, citizens must:
 
 * Use their neighborhood as a source of knowledge for given content missed
-* Failing the neighborhood's ability to "crowd-source" an answer, students should [use office hours](#Using-office-hours) to make up the gap in understanding
-  * These hours _must be_ with the Instructor, and not a TL if intending to "catch up" on missed work
-  * Students who have missed a class may use TL office hour time to if they feel that they understand the content, but have questions about approach or methods
-
-### Assignments
-
-* Assignments will be given for the week during the first course session of the week
-* Assignments will be due on the following Sunday at 11:59p
-* Due to the brief nature of this course, the instructor will not accept late assignments
-  * Here, "late" should mean that an assignment is submitted more than 12 hours after the deadline
-
-#### Unfinished work
-
-In this course there are two types of unfinished assignments:
-
-1. Weekly assignment repositories submitted missing some (not all) work ("Missing" assignments)
-2. Entire weekly assignment repositories not submitted ("Ignored" assignments)
-
-##### "Missing" assignments
-
-* Any "Missing" assignments will count for half a letter grade against a student's final course grade
-
-##### "Ignored" assignments
-
-* Any "Ignored" assignments automatically constitute a failing grade in the course
-
-#### Evaluation
-
-Below, the term "run" should be taken to mean that the program executes without error.
-
-##### Complete assignments
-
-* Assignments will be graded on a _completion_ basis
-  * Here, "completion" means:
-    * Submission is made on or before due date/time
-    * Submission features working code and/or complete documentation
-      * Here, "working" should be taken to mean "run" -- programs can still produce incorrect results, but must _run_
-      * Documentation also encompasses reflective writing
-    * At least 80% of all grading "checks" satisfied
-    
-##### Incomplete assignments
-
-* Turning in _incomplete_ work will count as a ["Missing" assignment](#Missing-assignments)
-   * "Incomplete" should be taken to mean:
-     * Submission not made on or before due date/time
-     * Submission does not feature "working" code and/or has incomplete documentation
-       * Here, "does not feature 'working' code" indicates the programs _don't run_
-       
-##### Assignment bugs and impact on grading
-
-* In the event that there are "bugs" with grader criteria, the instructor will assess completion status with known issues in mind
-  * The instructor will make every effort to remedy the failiing check before the assignment due date
-  * However, if during assignment evaluation, a check fails for every student due to a technical issue, the check is considered an invalid grading criteria   
+* Failing the neighborhood's ability to "crowd-source" an answer, citizens should [use office hours](#Using-office-hours) to make up the gap in understanding
+  * These hours _must be_ with the Mayor, and not a TL if intending to "catch up" on missed work
+  * citizens who have missed a class may use TL office hour time to if they feel that they understand the content, but have questions about approach or methods       
 
 ### Neighborhood contributions
 
-This course works due to the trust the Mayor places in each neighborhood becoming a collaborative home for all students. However, there is a fine line between collaboration and academic dishonesty. Here, we define that that line is and what general consequences (positive or negative) are under it.
+This course works due to the trust the Mayor places in each neighborhood becoming a collaborative home for all citizens. However, there is a fine line between collaboration and academic dishonesty. Here, we define that that line is and what general consequences (positive or negative) are under it.
 
 As a rule, some assignments are _group assignments_, and expect a single neighborhood-built product. This is both collaborative and co-creative. 
 
@@ -204,7 +214,7 @@ While certain assignments should be achieved individually, they can be completed
 
 ### Technical Leaders
 
-This course features the assistance of several peer educators that the department refers to as Technical Leaders (TLs). You should recognize these students as quasi-authorities in this course. While they don't make any kinds of grading decisions, they are all much smarter than the course instructor. They're also much cleverer.
+This course features the assistance of several peer educators that the department refers to as Technical Leaders (TLs). You should recognize these citizens as quasi-authorities in this course. While they don't make any kinds of grading decisions, they are all much smarter than the course instructor. They're also much cleverer.
 
 These people are not course resources in the sense that they are inanimate machines (also unlike your instructor). You agree to:
 
@@ -213,16 +223,16 @@ These people are not course resources in the sense that they are inanimate machi
 * Recognize that their feedback won't give you the "answer"; like instruction in this course, they're excellent resources to help you _reason_
 * Consider interaction with TLs should attain the same level as interaction with the instructor
 
-In the event that a conflict arises with a TL, please message the course instructor. Know that any issues that TLs have with students _are reported to me_, and if we need to discuss your engagement with them, the instructor agrees to arbitrate the issue with fairness to all involved.
+In the event that a conflict arises with a TL, please message the course instructor. Know that any issues that TLs have with citizens _are reported to me_, and if we need to discuss your engagement with them, the instructor agrees to arbitrate the issue with fairness to all involved.
 
 ### The "Repair Rule" (i.e. Assignment Revision)
 
-This rule only applies to assignments classified as ["Missing" assignments](#Missing-assignments).
+This rule only applies to assignments classified as "Incomplete" assignments and _not "Ignored" assignments.
 
-* _Once_ during the Module, a student may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
-  * This issue should indicate a student's interest in reclaiming credit for this assignment using the "Repair Rule"
+* _Once_ during the semester, a citizen may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
+  * This issue should indicate a citizen's interest in reclaiming credit for this assignment using the "Repair Rule"
 * This "Repair" issue must fill out the resulting form completely to request the ability to submit revisions
-* Students submitting a revision must remedy deficiencies listed in the most recent "Checkpoint" issue
+* citizens submitting a revision must remedy deficiencies listed in the most recent "Checkpoint" issue
   * Credit will be awarded as "complete" or "incomplete" according to the guidelines outlined in the [Grading](#Grading) section above
-* A student submitting a revision is allowed five (5) days to submit updated work
-  * There is no limit on the number of `commit`s allowed during this time (i.e. students may `commit` as many times as they like)
+* A citizen submitting a revision is allowed five (5) days to submit updated work
+  * There is no limit on the number of `commit`s allowed during this time (i.e. citizens may `commit` as many times as they like)
