@@ -11,7 +11,7 @@ This resource contains the rules that we need to agree to in order to make that 
 * [Office hours schedule](https://chompe.rs/office-hours)
 * [Course Calendar](https://chompe.rs/fall-2022-100-schedule)
 * [Technical Leader directory](https://www.cs.allegheny.edu/teaching/technicalleaders/)
-
+* [Course video playlist](https://chompe.rs/term-world-videos)
 ## Syllabus
 
 > "The best way to predict the future is to invent it."
