@@ -1,5 +1,7 @@
 # CMPSC 100: Computational Expression
 
+![Pixelated desert with "term-world" in foreground with a scarab illustration](media/term - desert.png)
+
 Greetings from `term-world`! Right now, it's a bit...em...barren. But! I promise that it once teemed with digital life and, uh, that's where _you_ come in. Together, we'll restore `term-world` to tbe bustling metropolis it was meant to be! (Which, of course it _totally was_ at one time; it's not like I'm using you for free labor or anything like that—you're just, like, not _paid_.)
 
 This resource contains the rules that we need to agree to in order to make that happen, so have a read. (It's actually really important.)
