@@ -65,7 +65,7 @@ Citizens who miss (2) proposals will be awarded a mark of `B-` if all other week
 
 There are three (3) instances that penalize evaluation:
 
-1. Incomplete assignments (i.e. incomplete)
+1. Incomplete assignments (i.e. basic expectations are not fulfilled)
 2. Ignored assignments (i.e. not completed at all)
 3. Plagiarism or other inappropriate/dishonest academic behavior
 
