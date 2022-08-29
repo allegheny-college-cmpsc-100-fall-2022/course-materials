@@ -73,11 +73,11 @@ Each of these circumstances affects grades differently.
 
 #### Incomplete assignments
 
-For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade (e.g. _two_ incomplete assignments would result in a mark of `C-`, et al.).
+For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade (e.g. _two_ (2) incomplete assignments would result in a mark of `C-`, et al.).
 
 #### Ignored assignments
 
-If a citizen misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ assignment missed would result in a `C-`, et al.).
+If a citizen misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ (1) assignment missed would result in a `C-`, et al.).
 
 #### Academic dishonesty
 
@@ -232,7 +232,7 @@ This rule only applies to assignments classified as "Incomplete" assignments and
 * _Once_ during the semester, a citizen may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
   * This issue should indicate a citizen's interest in reclaiming credit for this assignment using the "Repair Rule"
 * This "Repair" issue must fill out the resulting form completely to request the ability to submit revisions
-* citizens submitting a revision must remedy deficiencies listed in the most recent "Checkpoint" issue
+* Citizens submitting a revision must remedy deficiencies listed in the most recent "Checkpoint" issue
   * Credit will be awarded as "complete" or "incomplete" according to the guidelines outlined in the [Grading](#Grading) section above
 * A citizen submitting a revision is allowed five (5) days to submit updated work
   * There is no limit on the number of `commit`s allowed during this time (i.e. citizens may `commit` as many times as they like)
