@@ -61,6 +61,16 @@ Citizens who both _propose and implement_ at least two (2) ideas will be awarded
 
 Citizens who miss (2) proposals will be awarded a mark of `B-` if all other weeks contain them.
 
+### The `C` Tier
+
+(To qualify for this tier, all basic assignment objectives must be completely met.)
+
+As per the [the Basic Grade rule](#the-basic-grade), meeting 100% of a given assignment's objectives constitutes earning a `C` mark.
+
+#### `C+` grades
+
+Citizens who _propose_ at least (2) ideas will be awarded a mark of `C+`, given that all grading checks are met for all other weeks.
+
 ### Grades lower than the Basic Grade
 
 There are three (3) instances that penalize evaluation:
