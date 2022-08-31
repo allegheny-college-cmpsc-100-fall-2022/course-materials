@@ -26,7 +26,8 @@ Citizens who take the opportunity to both provide _and_ implement substantive im
   * completes all document prompts
   * must be done by start of a lab session (Friday) of a given week
   * must be approved _in writing_ by the Mayor by the end of the lab session
-  * must either incorporate or provide rationale for _not_ incorporating suggested revisions
+    * the Office of the Mayor will provide suggestions in response
+  * must either incorporate or provide rationale for _not_ incorporating suggestions from the Mayor's Office
     * this work is due by the assignment deadline (Sunday of each week)
 * implement the improvement proposed by the assignment deadline
 
@@ -81,6 +82,10 @@ There are three (3) instances that penalize evaluation:
 
 Each of these circumstances affects grades differently.
 
+##### Note about assignment completion
+
+This agreement operates on the understanding that circumstances may arise which interfere with completing assignments on time. Should a citizen need more time to complete work, they should file an issue on the repository containing the work which will be late.
+
 #### Incomplete assignments
 
 For every two (2) incomplete assignments, a citizen's course grade will be lowered by half a letter grade (e.g. _two_ (2) incomplete assignments would result in a mark of `C-`, et al.).
@@ -96,7 +101,9 @@ Citizens engaging in academically dishonest behavior will be assessed on a case-
 * disqualification from the `A` and/or `B` "tiers"
 * an automatic assessment of an "Ignored" assignment
 
-In severe cases, academic dishonesty may result in the mark of an `F` for the course, though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
+In severe cases, academic dishonesty may be referred to the supranational Alleghey College Honor Code Committee though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
+
+The rules, regulations, and consequences inherent in the Allegheny College process are located in the [Allegheny College Honor Code](http://catalog.allegheny.edu/content.php?catoid=43&navoid=1510).
 
 ### Assignment "bugs" and impact on grading
 
@@ -110,18 +117,18 @@ In severe cases, academic dishonesty may result in the mark of an `F` for the co
   * a successful "Pull Request" made on this document _and_
   * an open course discussion about the proposed change(s)
 * Any changes will then be put to a vote
-  * If a vote succeeds with a majority (50% + 1) outcome supporting the measure(s) proposed, the change will be made 
+  * If a vote succeeds with a two-thirds majority (66%) outcome supporting the measure(s) proposed, the change will be made 
 
 * The above applies to all portions of the contract _except_ for the "Basic Grade" and this rule ("Rules Rule")
 * The Mayor reserves the following rights:
-  * the right to veto a proposed change if:
-    * the change the academic or community integrity of the course, _or_ 
-    * a rule is superceded by policies governed by the College's academic standards or handbook
+  * the right to veto a proposed change if
+    * the change substantively alters the academic or course community integrity, _or_ 
+    * a rule is superseded via policies governed by the College's academic standards or handbook
   * the right make unilateral changes that that uphold academic and community integrity
 
 ### Participation
 
-For the duration of this course, take "participation" to mean:
+For the duration of this course, take "participation" to mean some combination of:
 
 * helping in group activities
 * completing assignments
@@ -137,6 +144,10 @@ For the duration of this course, take "participation" to mean:
 Please note that none of the above definitions _requires verbal contribution_ -- while this is a _way_ to participate, it is not the _only_ way. Activity on GitHub may also constitute full participation, if efforts display the above qualities. Occasionally, for group assignments, your neighborhood may receive a level of effort survey to gauge peer appraisal of team contribution as well.
 
 As several of you note in your suggestions for this contract, it is good practice to consider your participation not only necessary for _your own success_, but _required for the success of your neighborhood as a whole_.
+
+#### Communicating in your neighborhoods
+
+The Office of the Mayor expects neighborhoods to use their GitHub neighborhood pages to coordinate working hours on desired platforms 
 
 #### Course platforms
 
@@ -159,7 +170,7 @@ When using office hours:
 
 * Come in prepared with questions, a topic, or a clear objective
   * To achieve this, please add notes about expected topic(s) to a Google Calendar slot reservation (for instructor calendar)
-* Be prepared to recieve feedback, understanding that typically this means completing revisions on what ever you are working on
+* Be prepared to receive feedback, understanding that typically this means completing revisions on what ever you are working on
 * Respect the time of other citizens (i.e. be mannerly and quick)
 * Have all assignments ready to discuss with the Professor
 * Not rely only on office hours (i.e. work should be attempted first)
@@ -197,7 +208,7 @@ For all neighborhood assignments, members will fill out a post-assignment assess
 
 * Contribute any and all ideas, even if you aren't sure it'll work or is correct
 * Be respectful of other people's ideas and their misunderstandings
-* Help where you can and be honest when you don't know what's going; it's very like a peer can help you
+* Help where you can and be honest when you don't know what's going; it's very likely a peer can help you
   * If you exhaust peer assistance, it's certain that your neighborhood feels the way you do; this is the time to get the attention of the instructor and/or TLs
 * Be nonjudgemental of others opinions
   * Often, the idea that feels the most radical can (at the very least) pivot your thinking toward a correct line of inquiry
@@ -226,7 +237,7 @@ While certain assignments should be achieved individually, they can be completed
 
 This course features the assistance of several peer educators that the department refers to as Technical Leaders (TLs). You should recognize these citizens as quasi-authorities in this course. While they don't make any kinds of grading decisions, they are all much smarter than the course instructor. They're also much cleverer.
 
-These people are not course resources in the sense that they are inanimate machines (also unlike your instructor). You agree to:
+These people are not course resources in the sense that they are inanimate machines (also unlike your charitable Mayor). You agree to:
 
 * Treat them courteously and with respect
 * Not make strict demands of them; their enagagement with the course is a privilege, not a right
