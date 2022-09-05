@@ -109,7 +109,13 @@ The rules, regulations, and consequences inherent in the Allegheny College proce
 
 * In the event that there are "bugs" with grader criteria, Mayor will assess completion status with known issues in mind
   * The Mayor will make every effort to remedy the failing check before the assignment due date
-  * However, if during assignment evaluation, a check fails for every citizen due to a technical issue, the check is considered an invalid grading criteria   
+  * However, if during assignment evaluation, a check fails for every citizen due to a technical issue, the check is considered an invalid grading criteria 
+
+#### Bug bounty
+
+To mitigate future issues the Mayor has instituted a bug bounty. This is a way for you, the citizens, to surface issues with the world. 
+
+* `TODO`: Determine required information and report format
   
 ### The "Rules Rule"
 
