@@ -22,7 +22,7 @@ You may ask: why the basic grade is a `C` and not a `B` or `B-`? Rising to the l
 
 Citizens who take the opportunity to both provide _and_ implement substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
 
-* propose an assignment-related world improvment in each week's `proposal.md` file which:
+* propose an assignment-related world improvment in each week's repository using the `Improvement Proposal` Issue template on GitHub which:
   * completes all document prompts
   * must be done by start of a lab session (Friday) of a given week
   * must be approved _in writing_ by the Mayor by the end of the lab session
@@ -45,7 +45,7 @@ Citizens who do not meet the above requirements for two (2) weeks will be awarde
 
 Citizens who take the opportunity to both provide substantive improvements to assignment content qualify for this contract tier. In order to qualify for this tier, citizens must:
 
-* propose an improvement in each week's `proposal.md` file which:
+* propose an assignment-related world improvment in each week's repository using the `Improvement Proposal` Issue template on GitHub which:
   * completes all document prompts
   * must be finished by the start of a lab session (Friday) of a given week
   * must be recognized _in writing_ by the Mayor by the end of the lab session
