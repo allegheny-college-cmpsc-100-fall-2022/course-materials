@@ -51,8 +51,11 @@ Citizens who take the opportunity to both provide substantive improvements to as
   * must be recognized _in writing_ by the Mayor by the end of the lab session
   * must either incorporate or provide rationale for _not_ incorporating suggested revisions
     * this work is due by the assignment deadline (Sunday of each week)
+    * this work is expected to be integrated to the `main` branch via Pull Request and tied to the Issue created to propose it
 
 These proposals may be revisions to existing content or creation of wholly new content. Proposals must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+
+To "tie" an Issue (Proposal) to a given Pull Request, located the `Development` heading on the right side of the Pull Request page and add the issue (by number or title) to the Pull Request containing the improvement implementation.
 
 #### `B+` grades
 
