@@ -29,11 +29,14 @@ Citizens who take the opportunity to both provide _and_ implement substantive im
     * the Office of the Mayor will provide suggestions in response
   * must either incorporate or provide rationale for _not_ incorporating suggestions from the Mayor's Office
     * this work is due by the assignment deadline (Sunday of each week)
+* this work is expected to be integrated to the `main` branch via Pull Request and tied to the Issue created to propose it
 * implement the improvement proposed by the assignment deadline
 
 These proposals may be revisions to existing content or creation of wholly new content. In many cases, executing planned improvements will require some consultation with either community Technical Leaders _or_ the Mayor. Citizens wishing to achieve this tier should expect to avail themselves of the resources available, including office hours and other forms of correspondence.
 
 Proposals and improvements must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+
+To "tie" an Issue (Proposal) to a given Pull Request, locate the `Development` heading on the right side of the Pull Request page and add the issue (by number or title) to the Pull Request containing the improvement implementation.
 
 #### `A-` grades
 
@@ -53,6 +56,7 @@ Citizens who take the opportunity to both provide substantive improvements to as
     * this work is due by the assignment deadline (Sunday of each week)
 
 These proposals may be revisions to existing content or creation of wholly new content. Proposals must be completed for all weeks unless a week's content specifies otherwise in the accompanying assignment `README`. 
+
 
 #### `B+` grades
 
